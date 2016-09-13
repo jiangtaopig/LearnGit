@@ -5,3 +5,5 @@ this is third use
 checkout to dev
 
 do sth in branch of dev
+
+i had fixed this bug
