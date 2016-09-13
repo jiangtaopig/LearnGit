@@ -6,4 +6,7 @@ checkout to dev
 
 do sth in branch of dev
 
+a hotfix_bug is comming 
+dev stash and create a new brancn to reslove this bug
+
 i had fixed this bug
